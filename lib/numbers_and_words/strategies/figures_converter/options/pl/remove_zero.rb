@@ -4,7 +4,7 @@ module NumbersAndWords
   module Strategies
     module FiguresConverter
       module Options
-        module Cs
+        module PL
           class RemoveZero < Base::RemoveZero
           end
         end

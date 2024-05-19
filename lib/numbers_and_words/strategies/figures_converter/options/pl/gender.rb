@@ -4,7 +4,7 @@ module NumbersAndWords
   module Strategies
     module FiguresConverter
       module Options
-        module Cs
+        module Pl
           class Gender < Base::Gender
             def result
               active? ? @options[:gender].to_sym : :female
